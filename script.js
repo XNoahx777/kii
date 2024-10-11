@@ -210,4 +210,3 @@ $(".icon-bookmark").click(function(){
     $("#placemark").addClass("placemarked");
     $(".icon-bookmark").addClass("pressed");
 });
-
